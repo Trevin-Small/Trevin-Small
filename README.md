@@ -7,7 +7,7 @@
      I love working with software, but I have experience with hardware too, especially MCU's like Arduino and SBC's like RPI. I also enjoy 3D printing and cooking. 
      My latest interest is in Cryptocurrencies and NFT's.
     
-- 🌱 I will be beginning my studies at Purdue University in West Lafayette in fall 2021!
+- 🌱 I will be a Freshman at Purdue University in West Lafayette in the fall of 2021!
      I am majoring in computer science, and I plan to take part in the Machine Learning and Artificial Intelligence focus track in my upper-classmen studies.
 
 - 💞️ I’m looking to collaborate on ... (I don't know yet! I'm still learning...)

@@ -3,8 +3,8 @@
 - 🔥 Checkout my latest project! https://www.werms-nfts.com/ 
 
 - 👀 I’m interested in almost everything STEM. 
-     I have a background in VEX robotics (Team 9922Z & 7870E) and have built various kinds of robots, including combat ones. 
-     I love working with software, but I have experience with hardware too, especially MCU's like Arduino and SBC's like RPI. I also enjoy 3D printing and cooking. 
+     I have a background in VEX robotics and have built various kinds of robots, including combat ones (Not really robots, but really fun.) 
+     I love working with both software and hardware together with MCU's. I also enjoy 3D printing and cooking. 
      My latest interest is in Cryptocurrencies and NFT's.
     
 - 🌱 I will be a Freshman at Purdue University in West Lafayette in the fall of 2021!

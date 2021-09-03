@@ -10,7 +10,7 @@
 - 🌱 I will be a Freshman at Purdue University in West Lafayette in the fall of 2021!
      I am majoring in computer science, and I plan to take part in the Machine Learning and Artificial Intelligence focus track in my upper-classmen studies.
 
-- 💞️ I’m looking to collaborate on ... (I don't know yet! I'm still learning...)
+- 💞️ I’m looking to collaborate on NFT's. If you have an idea you're looking to launch, contact me!
 
 - 📫 How to reach me: trevincub03@gmail.com
 

@@ -3,7 +3,7 @@
 - 🔥 Checkout my latest project! https://www.werms-nfts.com/ 
 
 - 👀 I’m interested in almost everything STEM, software and hardware, including Programming, Robots, MCU's, 3D printing, and electronics. I also enjoy cooking.
-     My latest interest is in Cryptocurrency, and especially NFT's.
+     My latest interest is in Cryptocurrency, especially NFT's.
     
 - 🌱 I am a CS major at Purdue University, and I plan to take part in the Machine Learning and Artificial Intelligence focus track in my upper-classmen studies.
 

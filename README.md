@@ -7,7 +7,7 @@
     
 - 🌱 I am a CS major at Purdue University, and I plan to take part in the Machine Learning and Artificial Intelligence focus track in my upper-classmen studies.
 
-- 💞️ I’m looking to collaborate on NFT's. If you have an idea you're looking to launch, contact me!
+- 💞️ I’m looking to collaborate on NFT's. If you have an idea you're looking to launch/would like to help me launch one, contact me!
 
 - 📫 How to reach me: trevincub03@gmail.com
 

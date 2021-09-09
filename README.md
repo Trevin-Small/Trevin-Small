@@ -4,7 +4,7 @@
 
 ### 🙋‍♂️ About me 
 ---
-![About me code](./readme_about.png)
+![About me code](./readme_about_me.png)
 
 ### ⚙️ Technologies/Tools
 ---

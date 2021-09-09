@@ -25,7 +25,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trevin-Small&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-![(Not a Robot)](./verify-not-a-robot.svg)
+![(Not a Robot)](./verify-not-a-robot.svg) ![(if isBestLanguage return Python)](./if-isbestlanguage-return-python.svg)
 
 <!---
 Trevin-Small/Trevin-Small is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

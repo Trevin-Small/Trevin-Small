@@ -4,7 +4,7 @@
 
 ### 🙋‍♂️ About me 
 ---
-![About me code](./about_me.png)
+![About me code](./trevin_about_me.png)
 
 ### ⚙️ Technologies/Tools
 ---

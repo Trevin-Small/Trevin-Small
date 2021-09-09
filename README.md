@@ -31,6 +31,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trevin-Small&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 
 <!---
 Trevin-Small/Trevin-Small is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

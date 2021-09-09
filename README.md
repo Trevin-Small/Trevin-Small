@@ -4,13 +4,7 @@
 
 ### 🙋‍♂️ About me 
 ---
-- 👀 Interested in almost everything STEM, software and hardware, including Programming, Robots, MCU's, 3D printing, and electronics.
-     My latest interest is in Cryptocurrency, especially NFT's. I also enjoy cooking and rock climbing.
-    
-- 🌱 Freshman CS major at Purdue University, and I plan to take part in the Machine Learning and Artificial Intelligence focus track in my upper-classmen studies.
-
-- 💞️ Into NFT's and cryptocurrency. If you have an idea for NFT's that you're looking to launch/would like to help me launch a project, please contact me!
-
+![About me code](./about_me.png)
 
 ### ⚙️ Technologies/Tools
 ---

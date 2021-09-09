@@ -22,7 +22,9 @@
 
 ### 📫 Contact me: trevincub03@gmail.com
 ---
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
+<br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trevin-Small&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ![(if isBestLanguage return Python)](./if-isbestlanguage-return-python.svg) ![(Not a Robot)](./verify-not-a-robot.svg) 

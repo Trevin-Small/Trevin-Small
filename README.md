@@ -23,7 +23,7 @@
 ### 📫 Contact me: 
 ---
 - <img src="https://user-images.githubusercontent.com/47619990/132765281-e7ff7cdb-d224-4582-b7ab-89d777d6976e.png" width="14" height="11"> trevincub03@gmail.com
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/trevin-klint-small)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/trevin-klint-small/)
 &nbsp;
 
 ### 📈 Stats

@@ -1,9 +1,8 @@
 # Nice to meet you, I'm @Trevin-Small <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
----
 #### Checkout my latest project! https://www.werms-nfts.com/ 🔥 (The code is private. If you're interested, contact me.)
 
-## 🙋‍♂️ About me 
+### 🙋‍♂️ About me 
 ---
 - 👀 I’m interested in almost everything STEM, software and hardware, including Programming, Robots, MCU's, 3D printing, and electronics.
      My latest interest is in Cryptocurrency, especially NFT's. I also enjoy cooking and rock climbing.
@@ -12,7 +11,6 @@
 
 - 💞️ I’m looking to collaborate on NFT's. If you have an idea you're looking to launch/would like to help me launch one, contact me!
 
-<br />
 
 ### ⚙️ Technologies/Tools
 ---
@@ -27,11 +25,9 @@
 ![](https://img.shields.io/badge/Tools-Onshape-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=aebfb8)
 ![](https://img.shields.io/badge/Tools-Prusa_Slicer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=aebfb8)
 
-<br />
 
 ### 📫 Contact me: trevincub03@gmail.com
 ---
-<br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trevin-Small&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 

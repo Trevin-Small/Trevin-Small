@@ -20,8 +20,9 @@
 ![](https://img.shields.io/badge/Tools-Prusa_Slicer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=aebfb8)
 
 
-### 📫 Contact me: trevincub03@gmail.com
+### 📫 Contact me: 
 ---
+- trevincub03@gmail.com
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/trevin-klint-small)
 &nbsp;
 

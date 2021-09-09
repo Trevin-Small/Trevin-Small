@@ -1,6 +1,6 @@
 - 👋 Hi all, I’m @Trevin-Small
 
-- 🔥 Checkout my latest project! https://www.werms-nfts.com/ 
+- 🔥 Checkout my latest project! https://www.werms-nfts.com/ (Sorry! The code is private. If you're interested in seeing it, contact me.)
 
 - 👀 I’m interested in almost everything STEM, software and hardware, including Programming, Robots, MCU's, 3D printing, and electronics. I also enjoy cooking.
      My latest interest is in Cryptocurrency, especially NFT's.

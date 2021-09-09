@@ -22,10 +22,11 @@
 
 ### 📫 Contact me: trevincub03@gmail.com
 ---
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Trevin's LinkedIn](www.linkedin.com/in/trevin-klint-small)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/trevin-klint-small)
 &nbsp;
 
 ### 📈 Stats
+---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trevin-Small&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ![(if isBestLanguage return Python)](./if-isbestlanguage-return-python.svg) ![(Not a Robot)](./verify-not-a-robot.svg) 

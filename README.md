@@ -1,18 +1,39 @@
-- 👋 Hi all, I’m @Trevin-Small
+# Nice to meet you, I'm @Trevin-Small <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔥 Checkout my latest project! https://www.werms-nfts.com/ (Sorry! The code is private. If you're interested in seeing it, contact me.)
+---
+#### Checkout my latest project! https://www.werms-nfts.com/ 🔥 (The code is private. If you're interested, contact me.)
 
-- 👀 I’m interested in almost everything STEM, software and hardware, including Programming, Robots, MCU's, 3D printing, and electronics. I also enjoy cooking.
-     My latest interest is in Cryptocurrency, especially NFT's.
+## 🙋‍♂️ About me 
+---
+- 👀 I’m interested in almost everything STEM, software and hardware, including Programming, Robots, MCU's, 3D printing, and electronics.
+     My latest interest is in Cryptocurrency, especially NFT's. I also enjoy cooking and rock climbing.
     
-- 🌱 I am a CS major at Purdue University, and I plan to take part in the Machine Learning and Artificial Intelligence focus track in my upper-classmen studies.
+- 🌱 I'm a CS major at Purdue University, and I plan to take part in the Machine Learning and Artificial Intelligence focus track in my upper-classmen studies.
 
 - 💞️ I’m looking to collaborate on NFT's. If you have an idea you're looking to launch/would like to help me launch one, contact me!
 
-- 📫 How to reach me: trevincub03@gmail.com
+<br />
 
+### ⚙️ Technologies/Tools
+---
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=f571b1)
+![](https://img.shields.io/badge/Editor-VS_code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=637eeb)
+![](https://img.shields.io/badge/Editor-Sublime-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=637eeb)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Fusion_360-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=aebfb8)
+![](https://img.shields.io/badge/Tools-Onshape-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=aebfb8)
+![](https://img.shields.io/badge/Tools-Prusa_Slicer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=aebfb8)
 
-[!Trevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trevin-Small)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
+### 📫 Contact me: trevincub03@gmail.com
+---
+<br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trevin-Small&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---

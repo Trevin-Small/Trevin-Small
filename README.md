@@ -1,6 +1,6 @@
 # Nice to meet you, I'm @Trevin-Small <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### Checkout my latest project! https://www.werms-nfts.com/ 🔥 (The code is private. If you're interested, contact me.)
+#### Checkout my latest project! https://www.werms-nfts.com/ 🔥 
 
 ### 🙋‍♂️ About me 
 ---

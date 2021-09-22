@@ -15,6 +15,7 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Tools-Fusion_360-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=aebfb8)
 ![](https://img.shields.io/badge/Tools-Onshape-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=aebfb8)
 ![](https://img.shields.io/badge/Tools-Prusa_Slicer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=aebfb8)

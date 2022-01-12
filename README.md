@@ -1,8 +1,6 @@
 # Nice to meet you, I'm @Trevin-Small <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### - [Mesmerizing Javascript Animations! (Hit Spacebar/Click)](https://trevin-small.github.io/Fractals-JS/)
-#### - [Checkout My Website! 🔥  *Mobile not supported yet :(*](https://trevin-small.github.io/Trevins-website/)
-#### - [My Latest Personal Project!](https://www.werms-nfts.com/)
+### - [For More Info About Me, Checkout My Website!  🔥](https://trevin-small.github.io/Trevins-website/)
 
 ### 🙋‍♂️ About me 
 ---
@@ -29,6 +27,7 @@
 ---
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/trevin-klint-small/)
 &nbsp;
+- ✉️[contact@trevinsmall.com](contact@trevinsmall.com)
 
 ### 📈 Stats
 ---

@@ -1,6 +1,7 @@
 # Nice to meet you, I'm @Trevin-Small <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### - [For More Info About Me, Checkout My Website!  🔥](https://trevin-small.github.io/Trevins-website/)
+### - [Checkout My Latest Project!  🔥](https://github.com/Trevin-Small/Community-Crag)
+### - [For More Info About Me, Checkout My Website! 💻](https://trevin-small.github.io/Trevins-website/)
 
 ### 🙋‍♂️ About me 
 ---
@@ -24,9 +25,8 @@
 
 ### 📫 Contact me: 
 ---
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/trevin-klint-small/)
-&nbsp;
-- ✉️[contact@trevinsmall.com](contact@trevinsmall.com)
+#### [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/trevin-klint-small/)
+#### ✉[contact@trevinsmall.com](contact@trevinsmall.com)
 
 ### 📈 Stats
 ---

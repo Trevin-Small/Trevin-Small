@@ -21,7 +21,7 @@ def aboutMe(isClimbing):
     workingOn = a mix of everything, but especially interested in Web development. 
                 Currently working on learning frameworks like React/Vue in my spare time.
     
-    knowledgeableIn = ["Python', "JS", "Java", "C", "Solidity", "HTML", "CSS", "Firebase", "Google cloud API's" ]
+    knowledgeableIn = ["Python", "JS", "Java", "C", "Solidity", "HTML", "CSS", "Firebase", "Google cloud API's" ]
           
     
 ```

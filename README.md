@@ -5,7 +5,26 @@
 
 ### 🙋‍♂️ About me 
 ---
-![About me code](./readme_about_me.png)
+```python
+import trevin_small
+
+def aboutMe(isClimbing):
+
+  if not isClimbing:
+    
+    interestedIn = almost everything STEM, software and hardware, including programming, robotics, MCU's, 
+                   3D printing, and electronics. I also enjoy cooking and rock climbing.
+    
+    educationAt = Freshman Computer Science student at Purdue University. I plan to take part in either the 
+                  Machine Learning focus track, or the Software Engineering track.
+                  
+    workingOn = a mix of everything, but especially interested in Web development. 
+                Currently working on learning frameworks like React/Vue in my spare time.
+    
+    knowledgeableIn = ["Python', "JS", "Java", "C", "Solidity", "HTML", "CSS", "Firebase", "Google cloud API's" ]
+          
+    
+```
 
 ### ⚙️ Technologies/Tools
 ---

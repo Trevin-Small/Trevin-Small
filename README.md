@@ -18,7 +18,8 @@ def aboutMe(isClimbing):
     educationAt = Freshman Computer Science student at Purdue University. I plan to take part in either the 
                   Machine Learning focus track, or the Software Engineering track.
                   
-    workingOn = a mix of everything, but as of late, especially interested in JS and nodeJS, and learning frameworks like electron and React.
+    workingOn = a mix of everything, but as of late, especially interested in JS and nodeJS, and learning 
+                frameworks like electron and React.
     
     knowledgeableIn = ["Python", "JS", "Java", "C", "Solidity", "HTML", "CSS", "Firebase", "Google cloud API's" ]
           

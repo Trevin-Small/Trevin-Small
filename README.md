@@ -19,7 +19,7 @@ def aboutMe(isClimbing):
                   Machine Learning focus track, or the Software Engineering track.
                   
     workingOn = a mix of everything, but as of late, especially interested in JS and nodeJS, and learning 
-                frameworks like electron and React.
+                frameworks like Electron and Vue.
     
     knowledgeableIn = [
                       "Python", "JS", "NodeJS", "C", "Java", "Solidity", 

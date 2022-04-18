@@ -21,7 +21,10 @@ def aboutMe(isClimbing):
     workingOn = a mix of everything, but as of late, especially interested in JS and nodeJS, and learning 
                 frameworks like electron and React.
     
-    knowledgeableIn = ["Python", "JS", "Java", "C", "Solidity", "HTML", "CSS", "Firebase", "Google cloud API's" ]
+    knowledgeableIn = [
+                      "Python", "JS", "NodeJS", "C", "Java", "Solidity", 
+                      "HTML", "CSS", "Webpack", "Firebase", "Google Cloud" 
+                      ]
           
     
 ```

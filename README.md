@@ -15,14 +15,14 @@ def aboutMe(isClimbing):
     interestedIn = almost everything STEM, software and hardware, including programming, robotics, MCU's, 
                    3D printing, and electronics. I also enjoy cooking and rock climbing.
     
-    educationAt = Freshman Computer Science student at Purdue University. I plan to take part in either the 
+    educationAt = Computer Science student at Purdue University. I plan to take part in either the 
                   Machine Learning focus track, or the Software Engineering track.
                   
-    workingOn = a mix of everything, but as of late, especially interested in JS and nodeJS, and learning 
-                frameworks like Electron and Vue.
+    workingOn = A mix of everything, my work is all over the place. I am however especially interested in web development
+                and lower level code for MCU's and other hardware. (Polar opposites, I know.)
     
     knowledgeableIn = [
-                      "Python", "JS", "NodeJS", "C", "Java", "Solidity", 
+                      "JS", "NodeJS", "C", "Python", "Java", "Solidity", 
                       "HTML", "CSS", "Webpack", "Firebase", "Google Cloud" 
                       ]
           

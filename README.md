@@ -3,25 +3,32 @@
 ### - [Checkout My Latest Project!  🔥](https://github.com/Trevin-Small/Community-Crag)
 ### - [For More Info About Me, Checkout My Website! 💻](https://trevin-small.github.io/Trevins-website/)
 
-### 🙋‍♂️ About me 
----
-![abt_me](https://github.com/Trevin-Small/Trevin-Small/blob/main/abt_me.png)
+## 🙋‍♂️  About Me
+- Currently a full time CS student at Purdue University, graduating winter 24'
+- I truly love computer science! It's definitely my biggest passion. Whenever I'm not working on Comptuer Science homework/projects, I am usually learning about CS anyways.
+- When I'm not climbing, I'm often writing code, usually engulfed in a personal project that distracts me from my schoolwork.
+- Outside of CS, I enjoy rock climbing, cooking, and mechatronics projects, usually involving MCU's. Also, did I mention climbing?
+### I'm especially interested in:
+  - Systems and embedded programming. I think lower-level software is incredibly fascinating, and I love OS's, memory management, hardware interaction and computer architecture.
+  - Algorithms and Mathematics. Working through problems is satisfying, and I enjoy finding clever solutions to tough problems.
+  - Web development, especially in regard to making web apps more interactive and interesting (why are so many websites cookie cutter layouts? I like more visually interesting pages...)
 
-### ⚙️ Technologies/Tools
----
-![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=f571b1)
-![](https://img.shields.io/badge/Editor-VS_code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=637eeb)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-3D_Printing-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=aebfb8)
-![](https://img.shields.io/badge/Tools-Fusion_360-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=aebfb8)
-![](https://img.shields.io/badge/Tools-Onshape-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=aebfb8)
-![](https://img.shields.io/badge/Tools-Prusa_Slicer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=aebfb8)
-![](https://img.shields.io/badge/Platforms-Arduino-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffc72e)
-![](https://img.shields.io/badge/Platforms-Raspberry_Pi-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffc72e)
+## 🛠️ Skills
+- C, Java, JavaScript, Node.js, Python, HTML/CSS
+- Firebase/Firestore, Google Cloud APIs, Webpack, Tailwind CSS
+- Git, GitHub, VS Code
+- Unix/ZSH Shell
+- GCC & GDB
+- CAD & 3D Printing
+- Working at late hours
+
+## 😄 Other Interests / Hobbies
+- Rock Climbing
+- Cooking
+- 3D Printing
+- Microcontrollers, Single-board computers, and circuits
+- Robotics
+- Rocket League
 
 ### 📫 Contact me: 
 ---

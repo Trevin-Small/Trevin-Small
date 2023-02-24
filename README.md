@@ -13,35 +13,17 @@
   - Algorithms and Mathematics. Working through problems is satisfying, and I enjoy finding clever solutions to tough problems.
   - Web development, especially in regard to making web apps more interactive and interesting (why are so many websites cookie cutter layouts? I like more visually interesting pages...)
 
-## 🛠️ Skills
-- C, Java, JavaScript, Node.js, Python, HTML/CSS
-- Firebase/Firestore, Google Cloud APIs, Webpack, Tailwind CSS
-- Git, GitHub, VS Code
-- Unix/ZSH Shell
-- GCC & GDB
-- CAD & 3D Printing
-- Working at late hours
-
 ## 😄 Other Interests / Hobbies
 - Rock Climbing
 - Cooking
 - 3D Printing
-- Microcontrollers, Single-board computers, and circuits
+- Microcontrollers, Single-board computers and circuits
 - Robotics
-- Rocket League
 
 ### 📫 Contact me: 
 ---
 #### [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/trevin-klint-small/)
 #### ✉[contact@trevinsmall.com](contact@trevinsmall.com)
-
-### 📈 Stats
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trevin-Small&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-<br />
-<br />
 
 ![(Not a Robot)](./verified-not-a-robot.svg) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 

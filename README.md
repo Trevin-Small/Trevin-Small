@@ -1,6 +1,5 @@
 # Nice to meet you, I'm @Trevin-Small <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-### - [Checkout My Latest Project!  🔥](https://communitycrag.com/about)
 ### - [For More Info About Me, Checkout My Website! 💻](https://trevin-small.github.io/Trevins-website/)
 
 ## 🙋‍♂️  About Me

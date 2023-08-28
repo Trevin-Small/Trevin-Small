@@ -9,7 +9,7 @@
 ## 🔎 I'm especially interested in:
   - Systems and embedded programming. Low level software is lots of fun, and making physical devices using ESP32's and the sort is my cup of tea.
   - Interested in OS/RTOS, efficient memory management, assembly optimization, and computer architecture.
-  - Algorithms and Mathematics, because working through problems is fun! (Currently taking Competitive Programming 2 😄)
+  - Algorithms and Mathematics, because working through problems is fun!
   - Web development! Currently working on the redesign of the well-known [boilerexams](https://boilerexams.com) website at Purdue.
 
 ## 😄 Other Interests / Hobbies

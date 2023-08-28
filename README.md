@@ -4,17 +4,21 @@
 
 ## 🙋‍♂️  About Me
 - Currently a full time CS student at Purdue University, graduating winter 24'
-- I truly love computer science! It's definitely my biggest passion. Whenever I'm not working on Comptuer Science homework/projects, I am usually learning about CS anyways.
-- When I'm not climbing, I'm often writing code, usually engulfed in a personal project that distracts me from my schoolwork.
-- Outside of CS, I enjoy rock climbing, cooking, and mechatronics projects, usually involving MCU's. Also, did I mention climbing?
+- When I'm not outdoors, I'm often writing code, working on whichever project currently has my attention
+- Outside of CS, I enjoy rock climbing, hiking, camping, cooking, and skateboarding!
 ### I'm especially interested in:
-  - Systems and embedded programming. I love low level software and programming physical devices like ESP32 and Arduino. I'm interested in OS's, memory management, hardware interaction and computer architecture.
-  - Algorithms and Mathematics, because working through problems is fun!
-  - Web development, especially when making pages that are more visually interesting than run-of-the-mill sites.
+  - Systems and embedded programming. Low level software is lots of fun, and making physical devices using ESP32's and the sort is my cup of tea.
+  - Interested in OS/RTOS, efficient memory management, assembly optimization, and computer architecture.
+  - Algorithms and Mathematics, because working through problems is fun! (Currently taking Competitive Programming 2 😄)
+  - Web development! Currently working on the redesign of the well-known [boilerexams](https://boilerexams.com) website at Purdue.
 
 ## 😄 Other Interests / Hobbies
 - Rock Climbing
+- Hiking
+- Camping
 - Cooking
+- Skateboarding
+- Kayaking
 - Microcontrollers, Single-board computers and circuits
 - Robotics
 - 3D Printing
@@ -24,7 +28,7 @@
 #### [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/trevin-klint-small/)
 #### ✉[contact@trevinsmall.com](contact@trevinsmall.com)
 
-![(Not a Robot)](./verified-not-a-robot.svg) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+![(Not a Robot)](./verified-not-a-robot.svg)
 
 <!---
 Trevin-Small/Trevin-Small is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

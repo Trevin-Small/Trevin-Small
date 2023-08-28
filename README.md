@@ -6,7 +6,7 @@
 - Currently a full time CS student at Purdue University, graduating winter 24'
 - When I'm not outdoors, I'm often writing code, working on whichever project currently has my attention
 - Outside of CS, I enjoy rock climbing, hiking, camping, cooking, and skateboarding!
-### I'm especially interested in:
+## 🔎 I'm especially interested in:
   - Systems and embedded programming. Low level software is lots of fun, and making physical devices using ESP32's and the sort is my cup of tea.
   - Interested in OS/RTOS, efficient memory management, assembly optimization, and computer architecture.
   - Algorithms and Mathematics, because working through problems is fun! (Currently taking Competitive Programming 2 😄)

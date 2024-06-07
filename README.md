@@ -8,9 +8,9 @@
 ## 🔎 I'm especially interested in:
   - Firmware/Embedded
 
-### 📫 Contact me: 
----
-#### [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/trevin-klint-small/)
+## 📫 Contact me: 
+
+#### [![](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/trevin-klint-small/)
 #### ✉[contact@trevinsmall.com](contact@trevinsmall.com)
 
 ![(Not a Robot)](./verified-not-a-robot.svg)

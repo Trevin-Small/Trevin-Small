@@ -11,7 +11,7 @@
 ## 📫 Contact me: 
 
 #### [![](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/trevin-klint-small/)
-#### ✉[contact@trevinsmall.com](contact@trevinsmall.com)
+#### ✉[contact@trevinsmall.com](mailto:contact@trevinsmall.com)
 
 ![(Not a Robot)](./verified-not-a-robot.svg)
 

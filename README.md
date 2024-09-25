@@ -4,9 +4,9 @@
 
 ## 🙋‍♂️  About Me
 - Currently a full time CS student at Purdue University, graduating winter 24'
-- Outside of CS, I enjoy rock climbing, hiking, camping, kayaking, cooking, and skateboarding!
+- Outside of CS, I enjoy rock climbing, hiking, camping, kayaking, cooking, and skateboarding
 ## 🔎 I'm especially interested in:
-  - Firmware/Embedded
+  - Firmware/Embedded & other low level things with C and C++
 
 ## 📫 Contact me: 
 

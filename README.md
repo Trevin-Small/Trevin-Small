@@ -2,17 +2,13 @@
 
 ### - [Checkout My Website! 💻](https://trevin-small.github.io/Trevins-website/)
 
-## 🙋‍♂️  About Me
-- Currently a full time CS student at Purdue University, graduating winter 24'
-- Outside of CS, I enjoy rock climbing, hiking, camping, kayaking, cooking, and skateboarding
-## 🔎 I'm especially interested in:
-  - Firmware/Embedded, Systems & most other low level things (i like c 😃)
+## About
+- I enjoy rock climbing, mountain biking, hiking, camping, and cooking
+  
+# 🔎 I'm especially interested in:
+  - Computer Networks
+  - Firmware/Embedded, Systems & most other low level things (i like c and cpp 😃)
   - Interesting problems/algorithms
-
-## 📫 Contact me: 
-
-#### [![](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/trevin-klint-small/)
-#### ✉[contact@trevinsmall.com](mailto:contact@trevinsmall.com)
 
 ![(Not a Robot)](./verified-not-a-robot.svg)
 

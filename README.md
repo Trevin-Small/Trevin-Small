@@ -7,8 +7,7 @@
   
 # 🔎 I'm especially interested in:
   - Computer Networks
-  - Firmware/Embedded, Systems & most other low level things (i like c and cpp 😃)
-  - Interesting problems/algorithms
+  - Systems software, embedded, most low level things
 
 ![(Not a Robot)](./verified-not-a-robot.svg)
 
